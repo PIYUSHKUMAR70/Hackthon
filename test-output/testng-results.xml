@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-06T18:10:52 IST" name="Suite" finished-at="2024-05-06T18:12:00 IST" duration-ms="68171">
+    <groups>
+    </groups>
+    <test started-at="2024-05-06T18:10:52 IST" name="Test" finished-at="2024-05-06T18:12:00 IST" duration-ms="68171">
+      <class name="testCases.TestCase">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TestCase@36ebc363]" started-at="2024-05-06T18:10:52 IST" name="setup" finished-at="2024-05-06T18:10:58 IST" duration-ms="5688" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="goToUpcomingBikes()[pri:1, instance:testCases.TestCase@36ebc363]" started-at="2024-05-06T18:10:58 IST" name="goToUpcomingBikes" finished-at="2024-05-06T18:11:03 IST" duration-ms="5138" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goToUpcomingBikes -->
+        <test-method signature="selectHonda(java.lang.String)[pri:2, instance:testCases.TestCase@36ebc363]" started-at="2024-05-06T18:11:03 IST" name="selectHonda" finished-at="2024-05-06T18:11:08 IST" duration-ms="5134" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Honda]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectHonda -->
+        <test-method signature="showBikes()[pri:3, instance:testCases.TestCase@36ebc363]" started-at="2024-05-06T18:11:08 IST" name="showBikes" finished-at="2024-05-06T18:11:12 IST" duration-ms="4256" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- showBikes -->
+        <test-method signature="fetchBikeDetails()[pri:4, instance:testCases.TestCase@36ebc363]" started-at="2024-05-06T18:11:12 IST" name="fetchBikeDetails" finished-at="2024-05-06T18:11:20 IST" duration-ms="7539" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fetchBikeDetails -->
+        <test-method signature="moveToUsedCars()[pri:5, instance:testCases.TestCase@36ebc363]" started-at="2024-05-06T18:11:20 IST" name="moveToUsedCars" finished-at="2024-05-06T18:11:31 IST" duration-ms="11567" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- moveToUsedCars -->
+        <test-method signature="findTopCars()[pri:6, instance:testCases.TestCase@36ebc363]" started-at="2024-05-06T18:11:31 IST" name="findTopCars" finished-at="2024-05-06T18:11:35 IST" duration-ms="3337" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- findTopCars -->
+        <test-method signature="fetchTopCars()[pri:7, instance:testCases.TestCase@36ebc363]" started-at="2024-05-06T18:11:35 IST" name="fetchTopCars" finished-at="2024-05-06T18:11:35 IST" duration-ms="269" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fetchTopCars -->
+        <test-method signature="backToHomePage()[pri:8, instance:testCases.TestCase@36ebc363]" started-at="2024-05-06T18:11:35 IST" name="backToHomePage" finished-at="2024-05-06T18:11:38 IST" duration-ms="2805" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- backToHomePage -->
+        <test-method signature="logIn()[pri:9, instance:testCases.TestCase@36ebc363]" started-at="2024-05-06T18:11:38 IST" name="logIn" finished-at="2024-05-06T18:11:43 IST" duration-ms="5324" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logIn -->
+        <test-method signature="invalidLogIn(java.lang.String)[pri:10, instance:testCases.TestCase@36ebc363]" started-at="2024-05-06T18:11:43 IST" name="invalidLogIn" finished-at="2024-05-06T18:11:55 IST" duration-ms="12016" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[abcdefgh]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidLogIn -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TestCase@36ebc363]" started-at="2024-05-06T18:11:55 IST" name="tearDown" finished-at="2024-05-06T18:12:00 IST" duration-ms="4839" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TestCase -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

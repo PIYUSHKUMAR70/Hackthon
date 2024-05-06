@@ -1,0 +1,46 @@
+02:53:17.545 [main] INFO  testCases.tc_001upcommingbikes - starting test case 1
+02:53:17.806 [main] INFO  testCases.tc_001upcommingbikes - clicking on new bikes 
+02:53:22.300 [main] INFO  testCases.tc_001upcommingbikes - clicking on upcomming bikes 
+02:54:31.989 [main] INFO  testCases.tc_001upcommingbikes - starting test case 1
+02:54:32.194 [main] INFO  testCases.tc_001upcommingbikes - clicking on new bikes 
+02:54:36.763 [main] INFO  testCases.tc_001upcommingbikes - clicking on upcomming bikes 
+03:13:04.671 [main] INFO  testCases.tc_001upcommingbikes - starting test case 1
+03:13:04.946 [main] INFO  testCases.tc_001upcommingbikes - clicking on new bikes 
+03:13:09.612 [main] INFO  testCases.tc_001upcommingbikes - clicking on upcomming bikes 
+03:17:39.451 [main] INFO  testCases.tc_001upcommingbikes - starting test case 1
+03:17:39.668 [main] INFO  testCases.tc_001upcommingbikes - clicking on new bikes 
+03:17:44.149 [main] INFO  testCases.tc_001upcommingbikes - clicking on upcomming bikes 
+03:17:46.915 [main] INFO  testCases.tc_001upcommingbikes - starting test case 1
+03:17:46.916 [main] ERROR testCases.tc_001upcommingbikes - test case failed 
+03:17:46.916 [main] INFO  testCases.tc_001upcommingbikes - clicking on upcomming bikes 
+03:20:00.303 [TestNG-tests-2] INFO  testCases.tc_001upcommingbikes - starting test case 1
+03:20:00.325 [TestNG-tests-2] ERROR testCases.tc_001upcommingbikes - test case failed 
+03:20:00.325 [TestNG-tests-2] INFO  testCases.tc_001upcommingbikes - clicking on upcomming bikes 
+03:20:05.837 [TestNG-tests-1] INFO  testCases.tc_001upcommingbikes - starting test case 1
+03:20:06.119 [TestNG-tests-1] INFO  testCases.tc_001upcommingbikes - clicking on new bikes 
+03:20:10.568 [TestNG-tests-1] INFO  testCases.tc_001upcommingbikes - clicking on upcomming bikes 
+03:32:29.550 [main] INFO  testCases.tc_001upcommingbikes - starting test case 1
+03:32:29.798 [main] INFO  testCases.tc_001upcommingbikes - clicking on new bikes 
+03:32:34.305 [main] INFO  testCases.tc_001upcommingbikes - clicking on upcomming bikes 
+04:03:27.530 [main] INFO  testCases.tc_001upcommingbikes - starting test case 1
+04:03:27.899 [main] INFO  testCases.tc_001upcommingbikes - clicking on new bikes 
+04:03:32.507 [main] INFO  testCases.tc_001upcommingbikes - clicking on upcomming bikes 
+12:08:22.221 [main] INFO  testCases.tc_001upcommingbikes - starting test case 1
+12:08:23.216 [main] INFO  testCases.tc_001upcommingbikes - clicking on new bikes 
+12:08:28.565 [main] INFO  testCases.tc_001upcommingbikes - clicking on upcomming bikes 
+18:34:09.349 [main] INFO  testCases.tc_001upcommingbikes - starting test case 1
+18:34:09.701 [main] INFO  testCases.tc_001upcommingbikes - clicking on new bikes 
+18:34:23.748 [main] ERROR testCases.tc_001upcommingbikes - test case failed 
+18:34:23.749 [main] INFO  testCases.tc_001upcommingbikes - clicking on upcomming bikes 
+18:37:07.103 [main] INFO  testCases.tc_001upcommingbikes - starting test case 1
+18:37:07.599 [main] INFO  testCases.tc_001upcommingbikes - clicking on new bikes 
+18:37:12.132 [main] INFO  testCases.tc_001upcommingbikes - clicking on upcomming bikes 
+20:19:28.769 [main] INFO  testCases.tc_001upcommingbikes - starting test case 1
+20:19:29.090 [main] INFO  testCases.tc_001upcommingbikes - clicking on new bikes 
+20:19:33.709 [main] INFO  testCases.tc_001upcommingbikes - clicking on upcomming bikes 
+20:21:55.048 [main] INFO  testCases.tc_001upcommingbikes - starting test case 1
+20:21:55.339 [main] INFO  testCases.tc_001upcommingbikes - clicking on new bikes 
+20:21:59.794 [main] INFO  testCases.tc_001upcommingbikes - clicking on upcomming bikes 
+20:29:14.778 [main] INFO  testCases.tc_001upcommingbikes - starting test case 1
+20:29:15.036 [main] INFO  testCases.tc_001upcommingbikes - clicking on new bikes 
+20:29:19.438 [main] INFO  testCases.tc_001upcommingbikes - clicking on upcomming bikes 
